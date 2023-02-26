@@ -1,0 +1,51 @@
+SOFTCORE
+{
+This difficulty setting is for newcomers and relaxed gaming.
+
+Monster Hit Points: 55%
+Monster Damage: 45%
+Monster Projectile Speed: 75%
+
+Gargantua Hit Points: 75%
+Gargantua Regeneration: 50%
+
+Money Rewards: 100%
+Experience Rewards: 100%
+Gate Reward: $50
+Fall Damage: Fixed (8HP)
+Checkpoint Gap: 5 Waves
+
+Money and Experience rewards are doubled for the first 20 waves. Panthers spawn is forbidden. Slaves charging speed is constant. Pantagruel has a guaranteed item drop on death.
+}
+
+HARDCORE
+{
+This difficulty setting is for experienced gamers. The most canonical option.
+
+Monster Hit Points: 100%
+Monster Damage: 85%
+Monster Projectile Speed: 100%
+
+Gargantua Hit Points: 100%
+Gargantua Regeneration: 100%
+
+Money Rewards: 100%
+Experience Rewards: 100%
+Gate Reward: $25
+Fall Damage: Progressive
+Checkpoint Gap: 10 Waves
+
+Slaves charging speed depends on wave number (higher wave - higher charging speed).
+}
+
+UNDEAD
+{
+This mode is extremely bloody. The only enemy here is Zombie.
+
+Monster Hit Points: 100%
+Monster Damage: 100%
+
+Fall Damage: Realistic
+Gate Reward: $25
+Checkpoint Gap: 10 Waves
+}

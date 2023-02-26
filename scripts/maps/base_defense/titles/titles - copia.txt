@@ -1,0 +1,1831 @@
+POWERS_DEFAULT
+{
+Your last skill is greatly upgradable with Powers - passive improvements. Click on Power name to see its description.
+Push "Accept" button when you are sure with your choice.
+
+Careful! You can choose only one Power for this slot.
+You won't be able to change this Power for current character anymore, so choose wisely.
+}
+
+RUSH_POWER1
+{
+You will have increased move speed while affected by Rush skill.
+
+Additional move speed: 100
+}
+
+RUSH_POWER2
+{
+You will get critical hit chance while affected by Rush skill.
+
+Critical hit chance: 25%
+Critical hit damage: 200%
+}
+
+RUSH_POWER3
+{
+You will return damage taken to it's dealer while affected by Rush skill.
+
+Damage returned: 75%
+}
+
+RUSH_POWER4
+{
+You will deal massive damage around you when Rush skill effect ends.
+
+Damage: 120
+}
+
+RUSH_POWER5
+{
+You will deal more damage while affected by Rush skill.
+
+Bonus damage: 100%
+}
+
+RUSH_POWER6
+{
+Duration of Rush skill will become longer. Adds bonus duration to base duration of the Rush skill.
+ 
+Bonus duration: 8 seconds
+}
+
+RUSH_POWER7
+{
+Basic damage reduction of Rush skill is increased.
+ 
+Damage reduction: 99%
+}
+
+RELI_POWER1
+{
+Your angels will have damage reduction and increased HP regeneration.
+
+HP regeneration: 8% of max HP per second
+Damage reduction: 25%
+}
+
+RELI_POWER2
+{
+Your angels will deal more damage to enemies.
+
+Bonus damage: 50%
+}
+
+RELI_POWER3
+{
+Your angels will grant Defiance aura. 
+
+Defiance aura increases defense points of all characters.
+Defiance radius: 512
+Defiance bonus armor: 50%
+}
+
+RELI_POWER4
+{
+When your angels fall in battle they will heal all allies.
+
+Heal radius: 512 
+Heal amount: 25%
+}
+
+RELI_POWER5
+{
+All angels now will have Hand Grenades.
+You will have a chance to call angel armed with Shotgun. 
+
+Call chance: 50%
+
+Other angels will be armed with SMGs by default.
+}
+
+RELI_POWER6
+{
+You will have a chance to call angel with Assault Rifle and Grenade Launcher. 
+
+Call chance: 50%
+
+Other angels will be armed with SMGs by default.
+}
+
+RELI_POWER7
+{
+Your angels will have an enchantment on their weapons. Stacks with Lethality Power.
+
+Enchantment damage: 1 per 4 Sorcery
+}
+
+RELI_POWER000
+{
+Puts an enchantment on your angel weapons, which results in creating magical power discharge where your angels shooting at.
+
+Discharge damage: N
+Discharge radius: N
+}
+
+PROV_POWER1
+{
+Machinegun upgrade.
+
+It will change attack speed and damage of your turrets.
+
+Attack speed: 5 shots per second
+Attack damage: 10
+}
+
+PROV_POWER2
+{
+Sniper rifle upgrade.
+
+It will change attack speed and damage of your turrets.
+
+Attack speed: 1 shot per second
+Attack damage: 85
+}
+
+PROV_POWER3
+{
+Explosive charge upgrade.
+
+When your turrets are broken by enemies they will explode, dealing massive damage around.
+
+Explosion damage: 150
+}
+
+PROV_POWER4
+{
+Supply crates upgrade.
+
+Your turrets will spawn a supply crate every 1 minute. 
+Crate is usable 4 times and dissappears after.
+
+It contains 4 packs of: 
+- 4 Shotgun rounds
+- 15 Pistol/SMG rounds 
+- 10 HP medical kit
+
+You get 1 pack per use.
+
+New crate won't appear if the old one still exists.
+}
+
+PROV_POWER5
+{
+Builder binding upgrade.
+
+Your turrets will be bound with your characteristics increasing their own power.
+
+Legerity: attack speed. 2% per point, caps at 100%
+Precision: attack damage. 2% per point, caps at 300%
+Toughness: maximum HP. Square of points, no cap.
+}
+
+PROV_POWER6
+{
+Berserker mode upgrade.
+
+If your turrets are surrounded by 3 or more enemies, they will go berserker mode.
+
+Berserker damage reduction: 75%
+Berserker bonus attack speed: 100%
+
+Bonus turret maximum HP: 40 per builder level
+}
+
+PROV_POWER7
+{
+Builder technical skills improvement.
+
+Allows you to build more turrets.
+
+Amount: 3 turrets.
+Bonus: +1 turret per 10 builder levels (counting from level 40)
+}
+
+RUSH_DGREETING1
+{
+	Hello, dark soul.
+}
+
+RUSH_DLINE1
+{
+	How did you escaped hell?
+}
+
+RUSH_DLINE2
+{
+	You can't hide your truly nature from me.
+}
+
+RUSH_DLINE3
+{
+	Don't be afraid, I won't tell anyone. It's none of my business.
+}
+
+RUSH_DLINE4
+{
+	I'm the demon of wealth and greed.
+}
+
+RUSH_DLINE5
+{
+	I came to get rich with mortal world currency. I've heard a rumor where it's all going.
+}
+
+RUSH_DLINE6
+{
+	War obviously. The king told us not to interfere. Something strange happened when you Defenders came.
+}
+
+RUSH_DLINE7
+{
+	The merger of times. It's easy to notice, isn't it? Well, this event affected our king.
+}
+
+RUSH_DLINE8
+{
+	I had my own place in hell. Everything has changed since recent events.
+}
+
+RUSH_DLINE9
+{
+	A cauldron.
+}
+
+RUSH_QUEST1
+{
+	Who are you?
+}
+
+RUSH_QUEST2
+{
+	What are you doing here?
+}
+
+RUSH_QUEST3
+{
+	What's happening?
+}
+
+RUSH_QUEST4
+{
+	I've never heard a word about you. Why?
+}
+
+RUSH_LINE1
+{
+	What?
+}
+
+RUSH_LINE2
+{
+	So... you know...
+}
+
+RUSH_LINE3
+{
+	Okay.
+}
+
+RUSH_LINE4
+{
+	Welcome.
+}
+
+RUSH_LINE5
+{
+	Interesting...
+}
+
+RUSH_LINE6
+{
+	Strange? What do you mean?
+}
+
+RUSH_LINE7
+{
+	Yes, it is.
+}
+
+RUSH_LINE8
+{
+	What place?
+}
+
+RUSH_LINE9
+{
+	I won't ask you too.
+}
+
+RELI_DGREETING1
+{
+	Hello, brother.
+}
+
+RELI_DLINE1
+{
+	Angel without wings... Why?
+}
+
+RELI_DLINE2
+{
+	Then you decided to fall and become one of them... Will see how clever is this.
+}
+
+RELI_DLINE3
+{
+	Why are you the only angel who came to save humans?
+}
+
+RELI_DLINE4
+{
+	As you can guess, something is wrong there. That's why I escaped my place.
+}
+
+RELI_DLINE5
+{
+	Some hellish equipment, magic shoes merged with a grig, green shiny stone and rare for these times ammo.
+}
+
+RELI_DLINE6
+{
+	The merger has changed some places in this realm and now we can use ancient magic and knowledge.
+}
+
+RELI_DLINE7
+{
+	Who cares? It's a complete mess here anyway! But can you imagine the future world with sorcery?
+}
+
+RELI_QUEST1
+{
+	How are things in hell?
+}
+
+RELI_QUEST2
+{
+	What do you have for me?
+}
+
+RELI_QUEST3
+{
+	What do you know about the merger?
+}
+
+RELI_LINE1
+{
+	We had to do something, humans were abandoned.
+}
+
+RELI_LINE2
+{
+	That was the only way for me.
+}
+
+RELI_LINE3
+{
+	I can handle it and I'm not alone here anyway.
+}
+
+RELI_LINE4
+{
+	Not sure if it's good news.
+}
+
+RELI_LINE5
+{
+	I'm ready to pay for good items.
+}
+
+RELI_LINE6
+{
+	It wasn't planned to happen and can end badly.
+}
+
+RELI_LINE7
+{
+	I'm not sure we have the same picture of this.
+}
+
+PROV_DGREETING1
+{
+	Hello, mortal.
+}
+
+PROV_DLINE1
+{
+	Human! You decided to join Defenders instead of hiding in another realm. Why?
+}
+
+PROV_DLINE2
+{
+	How can a human help here?
+}
+
+PROV_DLINE3
+{
+	Hm... I'm here to sell an equipment and ammo to keep your firepower. We are having kinda similar business here!
+}
+
+PROV_DLINE4
+{
+	It seemed to be some ancient book to call someone dead, but since the merger it has changed it's effect.
+}
+
+PROV_DLINE5
+{
+	It is a way to increase the power of your last skill.
+}
+
+PROV_DLINE6
+{
+	As you gain key levels (15/20/25) you will get a choice of two powers available, it can be up to 8 different combinations.
+}
+
+PROV_DLINE7
+{
+	I heard a rumor. Someone can make it like it was before, restore this broken realm. I hope this man will have a success. There's no reason to exist in empty world like this.
+}
+
+PROV_DLINE8
+{
+	I think it will be better to leave this realm before it will be restored. 
+}
+
+PROV_QUEST1
+{
+	What is the Gargantua Book?
+}
+
+PROV_QUEST2
+{
+	What are the Powers?
+}
+
+PROV_QUEST3
+{
+	What will happen when aliens lose?
+}
+
+PROV_LINE1
+{
+	I believe they need my help.
+}
+
+PROV_LINE2
+{
+	Provision and firepower.
+}
+
+PROV_LINE3
+{
+	Not the best thing you can hear from the demon.
+}
+
+PROV_LINE4
+{
+	Hope we can use it for our needs.
+}
+
+PROV_LINE5
+{
+	How does it works?
+}
+
+PROV_LINE6
+{
+	Got it. Magic things are new to me.
+}
+
+PROV_LINE7
+{
+	Sounds good, but what will happen to us?
+}
+
+PROV_LINE8
+{
+	I hope we'll have a chance.
+}
+
+UPG_GLOCK
+{
+Pistol has 2 unique grades.
+
+1. Lightning enchantment
+Every 3 bullets that you fire continuously will cast a lightning strike.
+Damage: 20 HP.
+
+2. Explosive attack
+Activates secondary attack of pistol, it takes 2 bullets per shot and has low attack speed.
+Bullet creates an explosion on impact.
+Damage: 25 HP.
+Radius: 64 units.
+}
+
+UPG_PYTHON
+{
+Python has 2 unique grades.
+
+1. Scope attachment
+Places a scope on the top of the gun and activates its secondary attack - zooming.
+
+2. Freezing attack
+Enemies become slow every time you hit them. Duration doesn't stack.
+Slow ratio: 25% slower.
+Duration: 2 seconds.
+}
+
+UPG_AKIMBO
+{
+Akimbo has 1 unique grade.
+
+1. Radiation
+When you hold this weapon it will damage enemies around you every 3 seconds.
+Damage: 5% of usual enemies max HP and 1% for bosses.
+Radius: 512 units.
+}
+
+UPG_SHOTGUN
+{
+Shotgun has 1 unique grade.
+
+1. Fast reloading
+This upgrade allows to load 2 shells at the same time, so you will reload your shotgun as twice as fast.
+}
+
+UPG_CROSSBOW
+{
+Crossbow has 2 unique grades.
+
+1. Igniting bolts
+Bolts are enchanted with fiery power, they will ignite enemies on impact. Duration stacks.
+Enchantment doesn't work when aiming with scope.
+Damage: 3% enemies max HP per second.
+Duration: 3 seconds.
+
+2. Explosive bolts
+Bolts are enchanted with hellish explosive power, they will explode on impact.
+Enchantment doesn't work when aiming with scope.
+Damage: 20 HP.
+Radius: 128 units.
+}
+
+shout
+{
+^5Shout:
+^11. ^3I need medicine!
+^12. ^3I need ammunition!
+^13. ^3I need money!
+^14. ^3I'm going invisible!
+^15. ^3I'm ready!
+^16. ^3Let's fight the boss!
+^17. ^3Thanks!
+
+^10. ^3Close Menu
+}
+
+NAME
+{
+	Name
+}
+
+CLASS
+{
+	Class
+}
+
+Usual
+{
+	Usual
+}
+Rushing
+{
+	Rushing
+}
+Religious
+{
+	Religious
+}
+Provident
+{
+	Provident
+}
+
+PLAYERS
+{
+	Players
+}
+
+SCORE
+{
+	Kills
+}
+
+DEATHS
+{
+	Money
+}
+
+LATENCY
+{
+	Ping
+}
+
+VOICE
+{
+	Voice
+}
+
+Menu_OK
+{
+	OK
+}
+
+Menu_Cancel
+{
+	CANCEL
+}
+
+Spawn
+{
+	Press JUMP key to spawn!
+}
+
+Waiting
+{
+	Waiting for other players...
+}
+
+Cant_Spawn
+{
+	You can't spawn during wave!
+}
+
+Spec_Map
+{
+	Current map is
+}
+
+Spec_Time
+{
+	Game begins in
+}
+
+SPECT_NEWGAME
+{
+	You are able to create polls (default key is 'P')
+}
+
+statmenu
+{
+^7Stats improvement:
+^11. ^3Mobility
+^12. ^3Shooting
+^13. ^3Survivability
+^14. ^3Magic
+
+^10. ^3Close Menu
+}
+
+jukebox
+{
+^7Select track:
+^1PLut ^3needs good songs
+
+^10. ^3Close Menu
+}
+
+classmenu
+{
+^7Select your defender class:
+^11. ^3Rushing
+^12. ^3Religious
+^13. ^3Provident
+}
+
+Poll_RestartGameOthers
+{
+^1%s ^5wants to restart this map!
+^3Do you want to start a new game?
+}
+
+Poll_RestartGameSender
+{
+^5All players are asked whether they 
+^5want to restart this map.
+}
+
+Poll_NextMapOthers
+{
+^1%s ^5wants to play next map!
+^3Do you want a map change?
+}
+
+Poll_NextMapSender
+{
+^5All players are asked whether they 
+^5want to play on next map.
+}
+
+Poll_SkipTimerOthers
+{
+^1%s ^5doesn't want to wait for other players!
+^3Do you want to skip other players waiting time?
+}
+
+Poll_SkipTimerSender
+{
+^5All players are asked whether they 
+^5want to skip other players waiting time.
+}
+
+Poll_WaitingForVotes
+{
+Waiting for votes...
+}
+
+Poll_VoteNo
+{
+^11. ^2No
+}
+
+Poll_VoteYes
+{
+^12. ^3Yes
+}
+
+Poll_VoteAccepted
+{
+^5Your vote has been ^3accepted^5!
+Waiting for other votes.
+}
+
+Poll_VoteRejected
+{
+^2Sorry, your proposal was rejected.
+}
+
+TRACK1
+{
+	Metamorph
+}
+
+TRACK2
+{
+	Silently I Strike
+}
+
+TRACK3
+{
+	Unfilled Void
+}
+
+TRACK4
+{
+	Opposing Force
+}
+
+TRACK5
+{
+	Addicted
+}
+
+TRACK6
+{
+	The Hardest Track
+}
+
+SKILL1
+{
+Skill cost: %d%% of your lifesteal.
+
+You steal HP each time you hit enemy.
+Mana cost and healing depends on damage 
+you made.
+
+Lifesteal: %d%% of your damage.
+
+You can't recover more than 50 HP.
+
+Sorcery increases HP you steal and decreases
+mana cost.
+}
+
+SKILL2
+{
+Skill cost: %d MP.
+
+Heals allies in radius each 3 seconds.
+
+Aura healing: %d + %1.1f%% of ally max HP.
+Aura radius: %d units.
+
+Sorcery increases HP healed and aura radius.
+Using skill will break the invisibility.
+}
+
+SKILL3
+{
+Skill cost: 35 MP.
+
+Creates bag with medkits in front of you.
+
+Bag healing: %d HP.
+Charges: 3.
+
+Sorcery increases HP bag heals.
+Using skill will break the invisibility.
+}
+
+SKILL4
+{
+Skill cost: 2 MP.
+	
+Each hit increases your run speed and damage. 
+
+Maximum damage bonus: %d%%
+Maximum speed bonus: %d.
+
+Stacks: %d times.
+Stacks duration: 5 seconds.
+Each 20 Sorcery you will get an extra stack.
+
+Sorcery increases damage and speed bonus.
+}
+
+SKILL5
+{
+Skill cost: %d MP.
+
+Damages enemies in radius each 2 seconds and
+gives you damage bonus.
+
+Aura damage: %d + %1.1f%% of enemy max HP.
+Aura radius: %d units.
+
+Damage bonus: +%d%%.
+
+Sorcery increases aura damage, radius and
+damage bonus.
+Using skill will break the invisibility.
+}
+
+SKILL6
+{
+Skill cost: 50 MP.
+
+Charges: 2.
+
+Creates ammunition bag in front of you.
+Contains: 2 of .357, 15 of 9mm, 
+2 of shotgun ammo and 1 crossbow bolt.
+
+Bag can be used only twice per wave.
+Using skill will break the invisibility.
+}
+
+SKILL7
+{
+Skill cost: %d MP.
+
+Extremely high damage reduction.
+No critical hits when affected by Rush.
+
+Damage reduction: %d%%.
+Duration: %1.2f seconds.
+Duration stacks with multiple casts.
+
+Sorcery increases duration of the skill.
+Using skill will break the invisibility.
+}
+
+SKILL8
+{
+Skill cost: 40 MP.
+
+Creates angelic defender.
+Can be healed with Prayer or Salvation.
+Angel health: %d HP.
+Angel regeneration: %d HP each 2 seconds.
+
+You can send angel back to heaven by using
+Lord's Sword secondary attack.
+
+Sorcery increases angels health.
+Using skill will break the invisibility.
+}
+
+SKILL9
+{
+Skill cost: 50 MP.
+
+Creates a turret in front of you.
+Turret durability: %d HP.
+Turret regeneration: %d HP each 2 seconds.
+Attack speed: %1.2f shots per second.
+Attack damage: %d HP.
+Attack range: %d units.
+
+Usual Wrench attack functions:
+Primary - heal turret;
+Secondary - destroy turret.
+Using skill will break the invisibility.
+}
+
+SPELL1
+{
+Spell cost: 50 MP.
+
+Creates mysterious bag in front of you.
+No one knows what contains this bag.
+You can win or fail. Good luck!
+
+Sorcery decreases chance to get nothing.
+It counts sorcery of user, not owner.
+
+Using spell will break the invisibility.
+
+Gem inscribed with name: PLut.
+}
+
+SPELL2
+{
+Spell cost: 60 MP.
+
+Charges: 2.
+
+Creates rare ammunition bag in front of you.
+Contains .556 and .762 ammo, uranium and
+grenade launcher grenades.
+
+Bag can be used only twice per wave.
+Using spell will break the invisibility.
+
+Gem inscribed with name: PLut.
+}
+
+SPELL3
+{
+Spell cost: 15 HP.
+
+You sacrifice 15 HP to restore 30 MP.
+Your health must be above 30 HP.
+
+Gem inscribed with name: Biomechannibal.
+}
+
+SPELL4
+{
+Spell cost: %d MP.
+
+Damages enemies around you in radius.
+Has additional damage based on victim's
+maximum HP up to 5%%.
+
+Radius: %d units.
+Damage: %d HP.
+
+Sorcery improves spell damage and radius.
+Using spell will break the invisibility.
+
+Gem inscribed with name: PLut.
+}
+
+SPELL5
+{
+Spell cost: %d MP.
+
+Explodes the corpse of a killed monster.
+Doesn't work with explosives.
+
+Damage: 35%% of victim's maximum HP.
+Radius: %d units.
+
+Sorcery increases spell damage radius.
+
+Gem inscribed with name: PLut.
+}
+
+SPELL6
+{
+Spell cost: 15 MP.
+
+Heals specific ally you looking at.
+
+Healing: 15 HP.
+Maximum range: 2048 units.
+
+Gem inscribed with name: Zangetsu.
+}
+
+RUBY
+{
+Obscurity
+}
+
+EMERALD
+{
+Generosity
+}
+
+SAPPHIRE
+{
+Sacrifice
+}
+
+TOPAZ
+{
+Electronova
+}
+
+AMBER
+{
+Pulverize
+}
+
+AQUAMARINE
+{
+Salvation
+}
+
+DESTROYGEM
+{
+This gem is socketed into your belt and you are 
+not able to take it out. The only way to replace 
+spell gem is to destroy this one. 
+
+Press on gem icon to destroy it.
+}
+
+STORY
+{
+The war between good and evil was interrupted by an alien invasion. The Demons ran back to hell and the Angels fled to heaven. Only the humans were left, surrounded by aliens. Three heroes called the Defenders send the humans back in time into another realm causing past and present to merge.
+
+In-game events are happening after the merging of times.
+}
+
+
+NOEVENT
+{
+There is no event running.
+}
+
+XMAS
+{
+Ah, what a magical time. It's cold but the hearts are warm, it seems like Festive Winter is here.
+Gargantua and his younger brother Pantagruel have their killer-hearts melted and now they want to share a bit of love with their enemies. They have prepared a lot of presents for anyone who is brave enough to take them. To get one present you need to prove you're worthy by defeating one the horrific brothers. "Terrify and share the love!" - sounds like a great motto for them at this time.
+
+Since you're not the only person who can prove himself worthy, you need to deal 25% or more damage of boss maximum HP. If you did it right then you will get a guaranteed present drop for yourself. You will be the only one to be able to pick it up but only for 3 minutes long. After that time the present will become free to be picked up by any other hero. Your goal is to collect 25 presents. Your progress can be seen in a task menu. Be sure you have a free slot in your inventory when you pickup the last 25th present, it will turn all of the presents you've collected into a magical charm item. Only one charm can be obtained by a hero.
+
+Merry Christmas and Happy New Year!
+}
+
+HALLOWEEN
+{
+Halloween has come and it's about to be ruined.
+Gargantua and his younger brother Pantagruel stole millions of candies from all over the realm. Your quest of a great hero is to get candies back to the ones who need them the most. Get candies by defeating the horrific brothers. As you collect necessary amount of candies to return you will be rewarded with a perfect item to celebrate this Halloween.
+
+Since you're not the only creature who can deal damage to bosses, you need to deal 25% or more damage of boss maximum HP. If you did it right then you will get a guaranteed candy drop for yourself. You will be the only one to be able to pick it up but only for 3 minutes long. After that time the candy will become free to be picked up by any other hero. Your goal is to collect 31 candies. Your progress can be seen in a task menu. Be sure you have a free slot in your inventory when you pickup the last 31st candy, it will trigger an exchange of the candies you've collected for a special charm item. Only one charm can be obtained by a hero.
+
+Have a great spooky time!
+}
+
+//archivist info
+ARCH_NAME
+{
+Archivist welcomes you!
+}
+
+ARCH_DESC
+{
+Here you can learn more about game mechanics and systems. Choose a topic from the list at the left.
+}
+
+POTION_NAME0
+{
+Summary
+}
+
+POTION_NAME1
+{
+Green Potion
+}
+
+POTION_NAME2
+{
+Magenta Potion
+}
+
+POTION_NAME3
+{
+Yellow Potion
+}
+
+POTION_NAME4
+{
+Blue Potion
+}
+
+POTION_NAME5
+{
+Grey Potion
+}
+
+POTION_NAME6
+{
+Pink Potion
+}
+
+POTION_NAME7
+{
+Cyan Potion
+}
+
+POTION_DESC0
+{
+Potions are inventory items: you are able to drop, use or sell them. Potions grant players a variety of temporary bonuses which are described below. You must put a potion on your belt in order to use it.
+}
+
+POTION_DESC1
+{
+This potion gives you +100 to run speed for 60 seconds.
+}
+
+POTION_DESC2
+{
+This potion doubles your weapon damage outcome for 60 seconds.
+}
+
+POTION_DESC3
+{
+This potion increases your Thorns (Damage Return) by 150% for 30 seconds.
+}
+
+POTION_DESC4
+{
+This potion doubles your mana regeneration speed for 30 seconds.
+}
+
+POTION_DESC5
+{
+This potion makes you invulnerable for 5 seconds.
+Thorns and item bonuses which activated "when struck" are working even when you are invulnerable.
+}
+
+POTION_DESC6
+{
+This potion increases your weapon damage outcome for 15 seconds.
+Damage is doubled with additional 1% of enemy maximum health as bonus damage.
+}
+
+POTION_DESC7
+{
+This potion gives you Instagib for 10 seconds.
+Every enemy you damage with your weapon will instantly explode.
+Doesn't work against ancient monsters (bosses), instead you will get tripled weapon damage.
+}
+
+BUFF_NAME0
+{
+Summary
+}
+
+BUFF_NAME1
+{
+Buffs
+}
+
+BUFF_NAME2
+{
+Debuffs
+}
+
+BUFF_DESC0
+{
+Small green or red icons appearing above your main HUD (which is also called "The Belt") are buff / debuff indicators. They show positive (green) or negative (red) effects applied to your character.
+}
+
+BUFF_DESC1
+{
+Shield Icon (Defiance) - your defense is increased by 50%.
+
+Paw Icon (Frenzy) - shows your Frenzy skill stacks and time.
+
+Heart Icon (Prayer) - you are being healed by Religious skill Prayer.
+
+Running Man Icon (Rush) - you are affected by Rush skill.
+
+Shopping Cart Icon (Demon) - you are able to quickbuy rare ammo.
+}
+
+BUFF_DESC2
+{
+Flame Icon (Burn) - you are burning and taking 20 damage over 2 ticks.
+
+Snowflake Icon (Cold) - you are frozen. Your move speed is reduced by 30% and you taking 12 damage over 3 ticks.
+
+Skull Icon (Poison) - you are poisoned. Health regeneration is stopped and you taking 10 damage over 5 ticks.
+
+Radiation Icon (Radiation) - you are being affected by radiation and taking damage 2% of your maximum health per tick.
+
+Biohazard Icon (Acid) - your defense is lowered by 50% and you taking 10 damage over 2 ticks.
+}
+
+WRANBOX_NAME0
+{
+Random Weapon Box
+}
+
+WRANBOX_NAME1
+{
+Usual Drops
+}
+
+WRANBOX_NAME2
+{
+Rare Drops
+}
+
+WRANBOX_DESC0
+{
+This box gives you a random weapon, it can be great or not. Basic price is $325 (depends on current map). The price increases when you upgrade Precision ability.
+
+Every $1500 spent you will get a guaranteed rare drop. There is also a 4% chance you will get a rare drop without reaching $1500 threshold.
+}
+
+WRANBOX_DESC1
+{
+- SMG;
+- Pistol;
+- Shotgun;
+- Hand Grenade;
+- Python;
+- Crossbow;
+- Grenade Launcher.
+}
+
+WRANBOX_DESC2
+{
+- Gauss Rifle;
+- Assault Rifle;
+- Squad Automatic Weapon;
+- Sniper Rifle;
+- Akimbo;
+- Plasma Rifle;
+- Rail Handgun.
+}
+
+IRANBOX_NAME0
+{
+Random Item Box
+}
+
+IRANBOX_NAME1
+{
+Usual Drops
+}
+
+IRANBOX_NAME2
+{
+Rare Drops
+}
+
+IRANBOX_DESC0
+{
+This box gives you a random item, it can be great or not. Basic price is $200 (depends on current map).
+
+When the box drops a potion it has a 10% chance to spawn as rare potion.
+}
+
+IRANBOX_DESC1
+{
+- Medical Kit;
+- Mana Kit;
+- AR/GL Grenades;
+- Experience Book;
+- Green Potion;
+- Magenta Potion;
+- Yellow Potion;
+- Blue Potion.
+}
+
+IRANBOX_DESC2
+{
+- Grey Potion;
+- Pink Potion;
+- Cyan Potion.
+}
+
+STATS_NAME0
+{
+Summary
+}
+
+STATS_NAME1
+{
+Legerity
+}
+
+STATS_NAME2
+{
+Precision
+}
+
+STATS_NAME3
+{
+Toughness
+}
+
+STATS_NAME4
+{
+Sorcery
+}
+
+STATS_DESC0
+{
+Every level up you get 1 Ability Point you can spend on one of four different Abilities (stats). Abilities can be increased with your gear as well.
+}
+
+STATS_DESC1
+{
+- Run speed;
+- Gravity reduction;
+- Maximum ammo multiplier.
+}
+
+STATS_DESC2
+{
+- Damage multiplier;
+- Critical hit chance;
+- Shooting accuracy.
+}
+
+STATS_DESC3
+{
+- Maximum hit points (+10 HP per level);
+- Natural defense;
+- Health regeneration speed.
+}
+
+STATS_DESC4
+{
+- Maximum mana points (+5 MP per level);
+- Power of the most skills / spells;
+- Mana regeneration speed.
+}
+
+MAGEMON_NAME0
+{
+Summary
+}
+
+MAGEMON_NAME1
+{
+Poisonous
+}
+
+MAGEMON_NAME2
+{
+Radioactive
+}
+
+MAGEMON_NAME3
+{
+Toxic
+}
+
+MAGEMON_NAME4
+{
+Burning
+}
+
+MAGEMON_NAME5
+{
+Freezing
+}
+
+MAGEMON_NAME6
+{
+Tough
+}
+
+MAGEMON_NAME7
+{
+Invisible
+}
+
+MAGEMON_NAME8
+{
+Healing
+}
+
+MAGEMON_NAME9
+{
+Lunatic
+}
+
+MAGEMON_DESC0
+{
+"Mage monsters appeared..." What this horrible message means? It means some of the monsters this wave will have buffs on them. Mage monsters are able to appear only on wave 25 and higher.
+Mage monsters have 50% higher money and experience rewards. You can distinguish monster type by his colored glowing shell.
+}
+
+MAGEMON_DESC1
+{
+The monster has poisoned attacks. 
+Applies "Poison" debuff on players.
+}
+
+MAGEMON_DESC2
+{
+The monster deals 2% of maximum enemy health damage in 512 units radius. 
+Applies "Radiation" debuff on players.
+Doesn't affect Turrets.
+}
+
+MAGEMON_DESC3
+{
+The monster has corrosive attacks. 
+Applies "Acid" debuff on players.
+}
+
+MAGEMON_DESC4
+{
+The monster has igniting attacks. 
+Applies "Burn" debuff on players.
+}
+
+MAGEMON_DESC5
+{
+The monster has freezing attacks. 
+Applies "Cold" debuff on players.
+}
+
+MAGEMON_DESC6
+{
+The monster has double hit points.
+}
+
+MAGEMON_DESC7
+{
+The monster is invisible, but can be noticed by grey glowing shell around him.
+}
+
+MAGEMON_DESC8
+{
+The monster heals his allies by 4% of maximum health in 512 units radius.
+}
+
+MAGEMON_DESC9
+{
+The monster is 25% faster.
+}
+
+CHAMP_NAME0
+{
+Champions
+}
+
+CHAMP_DESC0
+{
+This is a rare monster type which has x10 hit points. You can distinguish this type by his yellow-colored glowing shell. 
+
+Champions have 50% higher money, experience rewards and also are able to drop items with 30% chance.
+
+This special monster is able to appear on wave 10 and higher with a very low 0,5% chance. Chat notification appears when champion is spawned.
+}
+
+BOSSES_NAME0
+{
+Summary
+}
+
+BOSSES_NAME1
+{
+Gargantua
+}
+
+BOSSES_NAME2
+{
+Pantagruel
+}
+
+BOSSES_DESC0
+{
+Twin brothers Gargantua and Pantagruel are the only 2 ancient monsters (bosses). They are extremely dangerous.
+}
+
+BOSSES_DESC1
+{
+Gargantua is called by an ancient book (it is somewhere on the map). He's armed with 2 Flamethrowers and has 2 special attacks: stomp and kick. Stomp pulls enemies closer to him and kick does the opposite. Basic health is 5000 HP, but it's heavily increased by wave number and player count in boss area (+75% HP per player).
+}
+
+BOSSES_DESC2
+{
+Pantagruel appears every 5th wave usually starting from wave 10. He's armed with 2 Miniguns and has 1 special attack: directed stomp. Directed stomp moves quickly towards enemy and damages him. Loot drop chance is only 33% on Hardcore difficulty. Immune to bullets and melee damage. Use explosives and other types of weapons to defeat him.
+}
+
+//pickup messages
+
+$effect 5
+$color 255 255 255
+$color2 255 160 0
+$fadein 0.4
+$holdtime 2.0
+$fadeout 2.5
+
+!weapon_rpg
+{
+Rocket Launcher
+}
+
+!weapon_shotgun
+{
+Shotgun
+}
+
+!weapon_9mmar
+{
+Submachine Gun
+}
+
+!weapon_sniper
+{
+Sniper Rifle
+}
+
+!weapon_9mmhandgun
+{
+Pistol
+}
+
+!weapon_dagger
+{
+Hell Dagger
+}
+
+!weapon_sword
+{
+Lord's Sword
+}
+
+!weapon_wrench
+{
+Usual Wrench
+}
+
+!weapon_axe
+{
+Ancient Axe
+}
+
+!weapon_blaster
+{
+Blaster
+}
+
+!weapon_akimbo
+{
+Akimbo
+}
+
+!weapon_m4
+{
+Assault Rifle
+}
+
+!weapon_saw
+{
+Squad Automatic Weapon
+}
+
+!weapon_357
+{
+Python
+}
+
+!weapon_shock
+{
+Shock Rifle
+}
+
+!weapon_crossbow
+{
+Crossbow
+}
+
+!weapon_gauss
+{
+Gauss Rifle
+}
+
+!weapon_flamethrower
+{
+Flamethrower
+}
+
+!weapon_minigun
+{
+Minigun
+}
+
+!weapon_glauncher
+{
+Grenade Launcher
+}
+
+!weapon_plasmarifle
+{
+Plasma Rifle
+}
+
+!weapon_railhg
+{
+Rail Handgun
+}
+
+!item_healthkit
+{
+Health Kit
+}
+
+!item_manakit
+{
+Mana Kit
+}
+
+!item_xpbook
+{
+Book of Experience
+}
+
+!item_backpack
+{
+Backpack
+}
+
+!item_helmet
+{
+Helmet
+}
+
+!item_armor
+{
+Armor
+}
+
+!item_trinket
+{
+Trinket
+}
+
+!item_gem
+{
+Skill Gem
+}
+
+!item_patch
+{
+Item Upgrade Kit
+}
+
+!item_charm
+{
+Charm
+}
+
+!item_longjump
+{
+Unusual Shoes
+}
+
+!item_powerup
+{
+The Strongest Potion
+}
+
+!item_potion
+{
+The Strongest Potion
+}
+
+!9mm
+{
++%d Pistol/Akimbo/SMG rounds
+}
+
+!rockets
+{
++%d rocket
+}
+
+!ARgrenades
+{
++%d AR/GL grenades
+}
+
+!357
+{
++%d Python rounds
+}
+
+!556
+{
++%d SAW/AR rounds
+}
+
+!762
+{
++%d Minigun rounds
+}
+
+!338
+{
++%d SR rounds
+}
+
+!buckshot
+{
++%d Shotgun rounds
+}
+
+!bolts
+{
++%d Crossbow bolts
+}
+
+!handgrenade
+{
++%d Hand grenade
+}
+
+!satchel
+{
++%d Satchel charge
+}
+
+!tripmine
+{
++%d Tripmine
+}
+
+!uranium
+{
++%d Uranium
+}
+
+!fuel
+{
++%d Fuel
+}
+
+!glnades
+{
++%d GL grenades
+}
+
+!plasma
+{
++%d Plasma
+}
+
+!quark
+{
++%d Quark bullets
+}
+
+$position -1 0.3
+$effect 2
+// Final fade-in color
+$color 255 160 0
+// This is the highlight/flash color
+$color2 255 255 255
+$fxtime 0.25
+$fadein 0.01
+$fadeout 1.5
+$holdtime 3.5
+
+SHOPTEST
+{
+SMG for $%d
+}
+
+GARG
+{
+Gargantua is awoken!
+}
+
+GARGBOOK
+{
+Gargantua Book is ready!
+}
+
+PANTAGRUEL
+{
+Pantagruel walks the earth...
+}
+
+UNIQUE
+{
+The unique wave comes...
+}

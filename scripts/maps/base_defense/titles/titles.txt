@@ -1,0 +1,12 @@
+{
+"sentence" "SOFTCORE"
+"effect" "4"
+"spawnflags" "2"
+"targetname" "SOFTCORE"
+}
+{
+"sentence" "HARDCORE"
+"effect" "4"
+"spawnflags" "2"
+"targetname" "HARDCORE"
+}

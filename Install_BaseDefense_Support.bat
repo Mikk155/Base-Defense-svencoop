@@ -1,13 +1,15 @@
 @echo off
 
 if not exist "..\..\Base Defense\bdef" (
-  echo Mod dir "..\..\Base Defense\bdef" not found, are you sure you have already installed Base Defense in Steam?
+  echo Mod dir "..\..\Base Defense\bdef" not found.
+  echo Make sure you have installed Base Defense in Steam.
+  echo And that you are running this Script in your svencoop or svencoop_addon folders.
   pause
   GOTO BROKEN
 )
 
-if not exist gfx\env (mkdir gfx\env)
-COPY "..\..\Base Defense\bdef\gfx\env\*" gfx\env\
+if not exist gfx\env\mikk\basedefense (mkdir gfx\env\mikk\basedefense)
+COPY "..\..\Base Defense\bdef\gfx\env\*" gfx\env\mikk\basedefense\
 
 if not exist maps (mkdir maps)
 COPY "..\..\Base Defense\bdef\maps\*.bsp" maps\

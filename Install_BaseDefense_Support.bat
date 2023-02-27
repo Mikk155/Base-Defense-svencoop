@@ -8,6 +8,9 @@ if not exist "..\..\Base Defense\bdef" (
   GOTO BROKEN
 )
 
+
+
+REM Copy all required files
 if not exist gfx\env\mikk\basedefense (mkdir gfx\env\mikk\basedefense)
 COPY "..\..\Base Defense\bdef\gfx\env\*" gfx\env\mikk\basedefense\
 
@@ -34,13 +37,34 @@ if not exist models\mikk\basedefense\prop (mkdir models\mikk\basedefense\prop)
 COPY "..\..\Base Defense\bdef\models\prop\*" models\mikk\basedefense\prop\
 COPY "..\..\Base Defense\bdef\models\*" models\mikk\basedefense\
 
-echo All Files have been downloaded
 
+
+REM Download required scripts not present in this repository
+set Main=https://github.com/Mikk155/Sven-Co-op/raw/main/
+set Files=utils config_classic_mode game_text_custom player_reequipment
+set output=scripts/maps/mikk/
+
+if not exist %output% (mkdir %output:/=\%)
+
+(for %%a in (%Files%) do (
+  curl -LJO %Main%%%a.as
+  
+  move %%a.as %Output%
+))
+
+if not exist scripts\maps\beast (mkdir scripts\maps\beast)
+curl -LJO https://github.com/Outerbeast/Entities-and-Gamemodes/blob/master/respawndead_keepweapons.as
+move respawndead_keepweapons.as scripts/maps/beast/
+
+
+
+REM Import the ent files
 set mapList=pve_building pve_complex pve_neonlines pve_tomb pve_wintertown
 
 FOR %%m in (%mapList%) do (
-	Ripent.exe -import -noinfo %%m.bsp
+	Ripent.exe -import -noinfo maps/%%m.bsp
 	echo Modified map %%m.bsp
+	DELETE maps/%%m.bsp
 )
 
 pause
